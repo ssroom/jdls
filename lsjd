@@ -1,1 +1,341 @@
-c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbU9XUmpNREptTnkxaE4ySXlMVFJtWkRBdE9UZG1PQzB3WW1Sa01ETXlOREl4T1RZQGNtMi5ha2FvY2hhbmdub2RlLnh5ejo0NTM3OSMlRTUlOEYlQjAlRTYlQjklQkUyLVYzLWh6cGVsbGlzDQp2bGVzczovLzk2Y2RjMGYwLTQ4ZjQtNDgyMS1hMGFkLTViZmM1ZDNkOTE2ZUAyMDg2LmNiYS5hYS5hbTo0NDM/ZW5jcnlwdGlvbj1ub25lJnNlY3VyaXR5PXRscyZzbmk9MS5zZS54MTAubXgmYWxsb3dJbnNlY3VyZT0xJnR5cGU9d3MmaG9zdD0xLnNlLngxMC5teCZwYXRoPSUyRnZsZXNzJTNGZWQlM0QyNTYwIyVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOEF0b21pYyVFNyVCRSU4RSVFNSU5QiVCRCVFOCU4QSU5RCVFNSU4QSVBMCVFNSU5MyVBNVY0LWhhYmFoa3Npcg0Kdmxlc3M6Ly9kMDMzMzlkYi1mNDk2LTQ4ZDctYjUxOC02NmQwMDUxMWY0OWVAMjA1Mi5jYmEuYWEuYW06NDQzP2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT10bHMmc25pPTQucGVrby54MTAubXgmYWxsb3dJbnNlY3VyZT0xJnR5cGU9d3MmaG9zdD00LnBla28ueDEwLm14JnBhdGg9JTJGJTNGZWQlM0QyNTYwIyVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOEF0b21pYyVFNyVCRSU4RSVFNSU5QiVCRCVFOCU4QiVCMSVFNSU5QyU4QlY0LXNlMTUlNDBpay5tZQ0KaHlzdGVyaWEyOi8vOTY2YjY0YzktNWU2Ny00ZTcxLTgyOGUtZTI0Y2Y5OGEwNGE0QDE5NC4yNDcuNDIuNjE6MjgzMTM/c25pPXd3dy5iaW5nLmNvbSZhbHBuPWgzJmluc2VjdXJlPTEjJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUE2JUU0JUI5JThDJUU1JTg1JThCJUU1JTg1JUIwVjYtcGVsbGlzNDQxNiU0MHlhaG9vLmNvbQ0Kdm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0lseDFSRGd6UTF4MVJFUkZRMXgxUkRnelExeDFSRVJGTjBKbGNuSjU2SXV4NVp1OVZqY3RaMmRuY25KeU5UVTJOamMzSWl3TkNpQWdJbUZrWkNJNklDSXhOekl1TmpRdU1qSTVMakV5TUNJc0RRb2dJQ0p3YjNKMElqb2dJalEwTXlJc0RRb2dJQ0pwWkNJNklDSTBPREJpTVRFMU9TMHdOMkkzTFRRNE5qTXRZV1F4WWkweE1XUm1OelUyWmpabU1UTWlMQTBLSUNBaVlXbGtJam9nSWpBaUxBMEtJQ0FpYzJONUlqb2dJbTV2Ym1VaUxBMEtJQ0FpYm1WMElqb2dJbmR6SWl3TkNpQWdJblI1Y0dVaU9pQWlibTl1WlNJc0RRb2dJQ0pvYjNOMElqb2dJak11YUdzdWVERXdMbTE0SWl3TkNpQWdJbkJoZEdnaU9pQWlMM1p0Y3kwME9EQmlNVEUxT1Mwd04ySTNMVFE0TmpNdFlXUXhZaTB4TVdSbU56VTJaalptTVRNL1pXUTlNalUyTUNJc0RRb2dJQ0owYkhNaU9pQWlkR3h6SWl3TkNpQWdJbk51YVNJNklDSXpMbWhyTG5neE1DNXRlQ0lzRFFvZ0lDSmhiSEJ1SWpvZ0lpSXNEUW9nSUNKbWNDSTZJQ0lpRFFwOQ0Kdmxlc3M6Ly80ODBiMTE1OS0wN2I3LTQ4NjMtYWQxYi0xMWRmNzU2ZjZmMTNAMTYyLjE1OS4xMzcuMTU1OjQ0Mz9lbmNyeXB0aW9uPW5vbmUmc2VjdXJpdHk9dGxzJmFsbG93SW5zZWN1cmU9MSZ0eXBlPXdzJmhvc3Q9eW0uZnJnbS5lbGVtZW50ZnguY29tJnBhdGg9JTJGJTNGbW9kZSUzRGF1dG8lMjZkaXJlY3QlMjZwcm94eWlwJTNEanAubHV0b24uZXUub3JnI0NGJUU2JTk3JUE1JUU2JTlDJUFDRlJZTSVFNiU4OSU4QiVFNiU5QyVCQSVFOCVCMCVCNyVFNiVBRCU4Q1NBUC1HDQp2bGVzczovLzQ4MGIxMTU5LTA3YjctNDg2My1hZDFiLTExZGY3NTZmNmYxM0AxMDQuMTguMzUuMjEwOjQ0Mz9lbmNyeXB0aW9uPW5vbmUmc2VjdXJpdHk9dGxzJnNuaT1wcHkucG9wbGFyLmV1Lm9yZyZhbGxvd0luc2VjdXJlPTEmdHlwZT13cyZob3N0PXBweS5wb3BsYXIuZXUub3JnJnBhdGg9JTJGcHlpcCUzRGhrLmx1dG9uLmV1Lm9yZyUzRmVkJTNEMjU2MCNDRiVFOSVBNiU5OSVFNiVCOCVBRlBQWTElRTYlODklOEIlRTYlOUMlQkFraXdpLVNBUC1TDQo=
+{
+  "log": {
+    "access": "E:\\v2rayN-windows-64-SelfContained7149\\guiLogs\\Vaccess_2025-11-16.txt",
+    "error": "E:\\v2rayN-windows-64-SelfContained7149\\guiLogs\\Verror_2025-11-16.txt",
+    "loglevel": "warning"
+  },
+  "dns": {
+    "hosts": {
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "1dot1dot1dot1.cloudflare-dns.com": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "cloudflare-dns.com": [
+        "104.16.249.249",
+        "104.16.248.249",
+        "2606:4700::6810:f8f9",
+        "2606:4700::6810:f9f9"
+      ],
+      "dns.cloudflare.com": [
+        "104.16.132.229",
+        "104.16.133.229",
+        "2606:4700::6810:84e5",
+        "2606:4700::6810:85e5"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "doh.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ],
+      "dns.sb": [
+        "185.222.222.222",
+        "2a09::"
+      ],
+      "dns.umbrella.com": [
+        "208.67.220.220",
+        "208.67.222.222",
+        "2620:119:35::35",
+        "2620:119:53::53"
+      ],
+      "dns.sse.cisco.com": [
+        "208.67.220.220",
+        "208.67.222.222",
+        "2620:119:35::35",
+        "2620:119:53::53"
+      ],
+      "engage.cloudflareclient.com": [
+        "162.159.192.1",
+        "2606:4700:d0::a29f:c001"
+      ]
+    },
+    "servers": [
+      {
+        "address": "https://dns.alidns.com/dns-query",
+        "domains": [
+          "domain:alidns.com",
+          "domain:doh.pub",
+          "domain:dot.pub",
+          "domain:360.cn",
+          "domain:onedns.net",
+          "gb.boc.aa.am"
+        ],
+        "skipFallback": true
+      },
+      {
+        "address": "https://cloudflare-dns.com/dns-query",
+        "domains": [
+          "geosite:google"
+        ],
+        "skipFallback": true
+      },
+      {
+        "address": "https://dns.alidns.com/dns-query",
+        "domains": [
+          "geosite:private",
+          "geosite:cn"
+        ],
+        "skipFallback": true
+      },
+      {
+        "address": "223.5.5.5",
+        "domains": [
+          "full:dns.alidns.com",
+          "full:cloudflare-dns.com"
+        ],
+        "skipFallback": true
+      },
+      "https://cloudflare-dns.com/dns-query"
+    ],
+    "tag": "dns-module"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "0.0.0.0",
+      "protocol": "mixed",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic",
+          "fakedns",
+          "fakedns+others"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "api",
+      "port": 10812,
+      "listen": "127.0.0.1",
+      "protocol": "dokodemo-door",
+      "settings": {
+        "address": "127.0.0.1"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "gb.boc.aa.am",
+            "method": "none",
+            "ota": false,
+            "password": "480b1159-07b7-4863-ad1b-11df756f6f13",
+            "port": 443,
+            "level": 1
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "55ssw.talku.eu.org",
+          "fingerprint": ""
+        },
+        "wsSettings": {
+          "path": "/?ed=2560&proxyip=gb.luton.eu.org",
+          "host": "55ssw.talku.eu.org",
+          "headers": {
+            "Host": "55ssw.talku.eu.org"
+          }
+        },
+        "sockopt": {
+          "dialerProxy": "proxy3"
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    },
+    {
+      "tag": "proxy3",
+      "protocol": "freedom",
+      "settings": {
+        "fragment": {
+          "packets": "tlshello",
+          "length": "100-200",
+          "interval": "10-20"
+        }
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api"
+      },
+      {
+        "type": "field",
+        "port": "443",
+        "network": "udp",
+        "outboundTag": "block"
+      },
+      {
+        "type": "field",
+        "outboundTag": "proxy",
+        "domain": [
+          "geosite:google"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:private"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:private"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "223.5.5.5",
+          "223.6.6.6",
+          "2400:3200::1",
+          "2400:3200:baba::1",
+          "119.29.29.29",
+          "1.12.12.12",
+          "120.53.53.53",
+          "2402:4e00::",
+          "2402:4e00:1::",
+          "180.76.76.76",
+          "2400:da00::6666",
+          "114.114.114.114",
+          "114.114.115.115",
+          "114.114.114.119",
+          "114.114.115.119",
+          "114.114.114.110",
+          "114.114.115.110",
+          "180.184.1.1",
+          "180.184.2.2",
+          "101.226.4.6",
+          "218.30.118.6",
+          "123.125.81.6",
+          "140.207.198.6",
+          "1.2.4.8",
+          "210.2.4.8",
+          "52.80.66.66",
+          "117.50.22.22",
+          "2400:7fc0:849e:200::4",
+          "2404:c2c0:85d8:901::4",
+          "117.50.10.10",
+          "52.80.52.52",
+          "2400:7fc0:849e:200::8",
+          "2404:c2c0:85d8:901::8",
+          "117.50.60.30",
+          "52.80.60.30"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "domain:alidns.com",
+          "domain:doh.pub",
+          "domain:dot.pub",
+          "domain:360.cn",
+          "domain:onedns.net"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "ip": [
+          "geoip:cn"
+        ]
+      },
+      {
+        "type": "field",
+        "outboundTag": "direct",
+        "domain": [
+          "geosite:cn"
+        ]
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "dns-module"
+        ],
+        "outboundTag": "proxy"
+      }
+    ]
+  },
+  "metrics": {
+    "tag": "api"
+  },
+  "policy": {
+    "system": {
+      "statsOutboundUplink": true,
+      "statsOutboundDownlink": true
+    }
+  },
+  "stats": {}
+}
