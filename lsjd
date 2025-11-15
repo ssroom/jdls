@@ -91,8 +91,7 @@
           "domain:doh.pub",
           "domain:dot.pub",
           "domain:360.cn",
-          "domain:onedns.net",
-          "gb.boc.aa.am"
+          "domain:onedns.net"
         ],
         "skipFallback": true
       },
@@ -163,7 +162,7 @@
       "settings": {
         "servers": [
           {
-            "address": "gb.boc.aa.am",
+            "address": "172.67.138.206",
             "method": "none",
             "ota": false,
             "password": "480b1159-07b7-4863-ad1b-11df756f6f13",
